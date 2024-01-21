@@ -6,12 +6,12 @@
 height: 100vh;
 background-color: black;
 }
-navbar {
-    background-attachment: white;
+.navbar {
+    background-color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20;
+    padding: 20px;
 }
 .navbar ul{
     display: flex;
