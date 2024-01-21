@@ -17,7 +17,7 @@ background-color: black;
     display: flex;
 }
 .navbar ul li {
-    list-styla :none;
+    list-style :none;
 }
 .navbar ul li a{  
         text-decoration: none;
